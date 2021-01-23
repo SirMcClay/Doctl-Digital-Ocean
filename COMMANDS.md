@@ -7,3 +7,7 @@ Authenticate with Digital Ocean credentials to use doctl with existing clusters.
 ## `doctl kubernetes cluster kubeconfig save <cluster_name>`
 
 Get connection info for our new cluster.
+
+## `kubectl config view`
+
+List all contexts.
